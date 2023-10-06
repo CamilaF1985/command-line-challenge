@@ -1,0 +1,69 @@
+1
+cd thecmdchallenge/
+
+2
+pwd
+
+3
+find /c/Users/camil/OneDrive/Escritorio/command\ line\ challenge/exercise-terminal-challenge/thecmdchallenge -type f
+
+4
+clear
+
+5
+cat ./bigger-name-than-before/omg-this-folder-has-a-huuuuuuge-name-and-i-tired-to-type/this-is-probably-the-longest-folder-name-you-have-ever-seen-but-believe--im-sure-there-are-other-folder-bigger-than-this-one-because-people-sometimes-like-to-assign-huge-names-to-their-personal-stuff-supercalifragilisticexpialidocious/trophy.txt
+
+6
+cd ..
+cd funcode
+ls *.js
+
+7
+cd the-most-funny/
+mkdir not-that-funny
+
+8
+cd ..
+cd ..
+cd boringfolder/
+cd even-more-boring/
+cd i-cant-believe-how-boring/
+cd the-ultimate-boring-inception/
+cp the-mostboring-text.txt lol.txt
+
+9
+cd ..
+cd ..
+cd ..
+cd ..
+cd funcode/
+mv kids.jpg images/hello/
+
+10
+rm -r small-name
+
+11
+cd funcode/the-most-funny/lol/
+cat the-ultimate-joke.txt
+
+12
+rm -r boringfolder/*
+
+13
+vi kamehameha/dragon-ball-jokes.md
+
+14
+vi kamehameha/dragon-ball-jokes.md
+(seleccionar la primera línea con el mouse)
+tipear dd
+Esc
+:w
+:q
+
+
+
+
+
+
+
+
